@@ -1,0 +1,8 @@
+{
+	"full_name": "Gavin Cooper",
+	"email": "",
+	"project_name": "A psychopy sound experiment",
+	"project_short_name": "Experiment_Name",
+	"project_description": "A python script for running a sound experiment with Psychopy",
+	"version": "0.0.1"
+}

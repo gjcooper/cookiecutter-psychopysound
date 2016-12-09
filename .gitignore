@@ -1,0 +1,7 @@
+*.pyc
+venv/
+data/
+inpout32.dll
+debug_sequences.csv
+.ipynb_checkpoints/
+*.swp
