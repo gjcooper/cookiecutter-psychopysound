@@ -38,7 +38,7 @@ def obtainDemographics(subject, title='Subject Details'):
 class Experiment(object):
     """Holds all experiment details such as implementation, run data (date etc)
     and creates resources like file descriptors and display adapters"""
-    def __init__(self, name='{{cookicutter.project_short_name}}'):
+    def __init__(self, name='{{cookiecutter.project_short_name}}'):
         """Setup the experiment, create windows and gather subject details"""
         super(Experiment, self).__init__()
         self.subject = {'Subject ID': ''}
