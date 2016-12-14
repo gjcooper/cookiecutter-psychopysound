@@ -6,7 +6,7 @@ email: {{ cookiecutter.email }}
 
 ## Description
 
-{{ cookiecutter.project_short_description }}
+{{ cookiecutter.project_description }}
 
 ## Installation / Usage
 
